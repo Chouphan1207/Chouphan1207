@@ -8,7 +8,7 @@ I am a passionate **Fresher Full-Stack / Mobile Developer** with a strong founda
 
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" align="top">
       <strong>Frontend</strong>
       <ul>
         <li>React, Next.js, TypeScript</li>
