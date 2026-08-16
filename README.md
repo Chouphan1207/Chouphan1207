@@ -1,6 +1,6 @@
 # 🫡 Hi, I'm Phan Hoàng Trọng Tín
 
-I am a passionate **Fresher Full-Stack / Mobile Developer** with a strong foundation in modern web and mobile technologies. I love building intuitive, high-performance applications and solving complex technical challenges.
+I am a passionate **Fresher Full-Stack / Mobile Developer** with a strong foundation in modern web and mobile technologies. Having recently completed my military service, I am eager and excited to return to full-time software development, building intuitive, high-performance applications and solving complex technical challenges.
 
 ---
 
@@ -25,15 +25,6 @@ I am a passionate **Fresher Full-Stack / Mobile Developer** with a strong founda
 - **Tools:** Git, Docker (basics), CI/CD (GitHub Actions basics), XAMPP
 - **Platform:** Vercel
 - **Testing:** Vitest, Jest
-
----
-
-### 🖥️ Projects
-
-- **Personal Portfolio Website (Featured):** Developed a high-performance web application using **Next.js** and **TypeScript**, featuring global state management with **Redux Toolkit** and a responsive **Tailwind CSS** interface. Built a dynamic blogging module with interactive widgets, custom animations, and automated deployment on **Vercel**.
-- **Sunburst Club Management:** A backend-focused music club management system built with **Laravel** and **MongoDB**, featuring role-based access control and Laravel Sanctum authentication.
-- **Full-Stack Productivity Mobile App:** A cross-platform app using **Flutter/Dart** and a RESTful backend API using **Node.js, Express, and Prisma ORM** connected to a cloud Neon PostgreSQL database.
-- **Guitar Store Application:** A capstone project featuring a real-time microphone-based guitar tuner, e-commerce functionality, and a **Laravel (PHP) and MySQL** backend.
 
 ---
 
