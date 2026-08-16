@@ -6,6 +6,8 @@ I am a passionate **Fresher Full-Stack / Mobile Developer** with a strong founda
 
 ### 👨‍💻 Tech Stack
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Chouphan1207&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Chouphan1207&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=dark)
+
 **Frontend**
 - **Core:** React, Next.js, TypeScript
 - **Styling:** Tailwind CSS
